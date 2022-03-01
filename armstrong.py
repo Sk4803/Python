@@ -1,4 +1,3 @@
-//armstrong number
 num = int(input("Enter a number :"))
 sum1 = 0
 l = []
