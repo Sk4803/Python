@@ -1,0 +1,5 @@
+f = open("D:\\Tiger.txt", "r")
+ab = f.read()
+str1 = input("Enter character to be counted :")
+count1 = ab.count(str1)
+print (count1)
