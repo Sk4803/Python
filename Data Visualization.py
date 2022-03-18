@@ -1,4 +1,3 @@
-//Hello
 import matplotlib.pyplot as p
 c = [17, 8.8, 12.75, 14]
 h = ['Vidya', 'Kshama', 'Namrata', 'Karuna']
