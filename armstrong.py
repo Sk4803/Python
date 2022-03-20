@@ -1,3 +1,4 @@
+//Program to check if a number is armstrong or not
 num = int(input("Enter a number :"))
 sum1 = 0
 l = []
