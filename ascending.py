@@ -1,4 +1,3 @@
-//Hello
 n= int(input("Enter the number of entries :"))
 l1 = []
 for i in range(1, n+1) :
